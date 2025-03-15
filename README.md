@@ -7,6 +7,7 @@ This repository contains various mini projects showcasing JavaScript functionali
 Below is a list of some mini projects included in this repository:
 
 1. **login from validation:**
+2. **toggle button:**
 
 More projects will be added soon! Stay tuned. 🎉
 
