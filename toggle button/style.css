@@ -1,0 +1,32 @@
+
+    .toggle-btn {
+      background-color: #4CAF50;
+      border: none;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+      border-radius: 4px;
+      transition: background-color 0.3s;
+    }
+
+    .toggle-btn.active {
+      background-color: #f44336;
+    }
+
+    .content {
+      margin-top: 20px;
+      padding: 20px;
+      background-color: #f9f9f9;
+      border-radius: 4px;
+      display: none;
+    }
+
+    .content.show {
+      display: block;
+    }
+  
