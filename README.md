@@ -8,6 +8,7 @@ Below is a list of some mini projects included in this repository:
 
 1. **login from validation:**
 2. **toggle button:**
+3. **timer:**
 
 More projects will be added soon! Stay tuned. 🎉
 
