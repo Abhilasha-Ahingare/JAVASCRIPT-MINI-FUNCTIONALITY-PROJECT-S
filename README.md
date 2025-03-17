@@ -9,6 +9,7 @@ Below is a list of some mini projects included in this repository:
 1. **login from validation:**
 2. **toggle button:**
 3. **timer:**
+4. **password hide and show :**
 
 More projects will be added soon! Stay tuned. 🎉
 
@@ -21,14 +22,6 @@ More projects will be added soon! Stay tuned. 🎉
 - HTML, CSS, JavaScript  
 - Fetch API, Event Listeners  
 - ES6+ Features  
-
-## 📂 **Project Structure**
-```
-/src
-  ├── index.html
-  ├── style.css
-  ├── script.js
-```
 
 ## 🏃‍♂️ **How to Run**
 1. Clone the repository:
