@@ -10,6 +10,7 @@ Below is a list of some mini projects included in this repository:
 2. **toggle button:**
 3. **timer:**
 4. **password hide and show :**
+5. **dark mode:**
 
 More projects will be added soon! Stay tuned. 🎉
 
