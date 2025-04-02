@@ -12,6 +12,7 @@ Below is a list of some mini projects included in this repository:
 4. **password hide and show :**
 5. **dark mode:**
 6. **font size incress:**
+7. **update progressBar:**
 
 More projects will be added soon! Stay tuned. 🎉
 
